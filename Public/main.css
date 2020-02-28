@@ -56,3 +56,9 @@ button:hover {
   color: #61e714;
   font-size: 20px;
 }
+
+#imagen {
+  width: 60px;
+  height: 60px;
+  margin-left: 50% auto;
+}
